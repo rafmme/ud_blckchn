@@ -1,0 +1,14 @@
+{
+  "name": "ud_blckchn",
+  "version": "1.0.0",
+  "description": "blockchain dev course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timi Farayola",
+  "license": "MIT",
+  "dependencies": {
+    "bitcoinjs-message": "^2.2.0"
+  }
+}
